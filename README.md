@@ -35,5 +35,5 @@ This project contains an implementation of a **Smart Hangman Agent** that uses m
 - Use the provided parameters for better balance between runtime and accuracy.
 
 ## License
-This project is for educational purposes. Modify and extend as needed!
+This project is for educational purposes. Modify and extend as needed.
 
